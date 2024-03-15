@@ -5,6 +5,8 @@ This repository consists of my this read me file, a short report on the progress
 
 The helpers function contains the definitions, that are repeated in the code multiple times, in order to create a clean code. The prepared CSV file is included in the data folder, since I was one of those students, where the file was not created correctly when created through running the code, and I wanted to make sure, that this would definitely work in my final project.
 
+![image](https://github.com/Emilydrv/emily-druve-tbii-exam./assets/157495308/c6157f30-a9ab-4501-9e3e-8b23eb21dc40)
+
 # What is Pet-Match?
 Pet-Match is my idea for an app to simplify the adoption process of pets from shelter, to help more people adopt pets instead of shopping for them, in order to go against the suffering that is brought upon these animals through mass breeding and breeding towards trends. 
 
